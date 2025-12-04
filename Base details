@@ -1,0 +1,21 @@
+Base Detail-
+
+Added smart contract for Base chain
+
+Updated deployment script for Base
+
+Added ABI and contract artifacts
+
+Improved contract gas efficiency
+
+Added Base chain network config
+
+Fixed contract compile issues
+
+Optimized contract functions
+
+Added Hardhat config for Base Sepolia
+
+Updated README with Base deploy steps
+
+Deployed contract & updated address
